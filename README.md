@@ -3,7 +3,6 @@
 A comprehensive live event sound classification system for public safety, featuring **LightGBM-powered** audio analysis, real-time monitoring, and automated alarm notifications for authorized personnel.
 
 ## Features
-
 ### 🔊 Audio Classification with LightGBM Excellence
 - **LightGBM Primary Model**: Optimized gradient boosting for superior audio event detection accuracy (88-96%)
 - **Multiple ML Comparison**: MLP, KNN, Decision Tree, Logistic Regression, AdaBoost benchmarked against LightGBM
